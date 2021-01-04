@@ -1,30 +1,17 @@
 ---
-author: Edson Ayllon
+author: Andres Aiello
 category: functionality
 tags:
-- ethereum
-- react
-- solidity
-status: complete
-twitter: https://twitter.com/relativeread
+  - ethereum
+  - react
+  - solidity
 ---
-
-## Modular 23-2019
-
 
 # Simple Ethereum React Connenction
 
-
 A React frontend with an Etherum Smart Contract backend.
 
-## 1. Preview
-
-
-![Screenshot](./Screenshot.jpg)
-
-## 2. Getting Started
-
-### 2.1 Install
+### Install
 
 Install dependencies for the React Client.
 
@@ -41,7 +28,7 @@ truffle develop
 > compile
 ```
 
-### 2.2 Run
+### 2 Run
 
 Run the client. In `./client`:
 
